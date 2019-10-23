@@ -1,0 +1,53 @@
+
+.imgLogo{
+    margin-top: 5em;
+    height: 10em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.form-inline{
+    height: 10em;
+    margin-right: 10em;
+    margin-left: 20em;
+    display: flex;
+    align-items: center 
+}
+
+.navbar{
+    font-size: 20px;
+    font-style: italic;
+    background-color: #ADCF9E;
+    padding-bottom: 50px;
+        
+}
+
+.sobre-nos{
+    background-color: #96D0CE;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Pesquisas{
+    background-color: #022827;
+    color: white;
+}
+
+.bg-footer{
+    background-color: #011817;
+    color: white;
+}
+.slide{
+    background-color: #0aa38f; 
+    color: red; 
+    font-size: 40px;
+}
+.carousel-inner{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-right: 100px;
+    margin-left: 150px;
+}
